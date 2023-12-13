@@ -2,7 +2,6 @@ python3 -c "print('Here Comes the Fun!')"
 chmod +x proxy.sh
 ./proxy.sh &
 sleep 1
-chmod +x localt.sh
 python3 -c "print('Almost there....')"
 sleep 2
 echo "HERE WE GOOOOOOOOO!!!!!!!!!"
